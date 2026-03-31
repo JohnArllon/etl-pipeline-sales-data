@@ -1,3 +1,8 @@
+## 🚀 Business Problem
+Companies often have raw sales data that is inconsistent and difficult to analyze.
+
+This pipeline transforms raw data into structured, analysis-ready datasets.
+
 # 🚀 ETL Pipeline - Sales Data
 
 ## 📌 Overview
@@ -84,6 +89,12 @@ python main.py
 * Automate pipeline execution
 * Integrate with APIs
 * Add data visualization (Power BI / Streamlit)
+
+---
+
+## 📸 Pipeline Execution
+
+![Pipeline](assets/pipeline.png)
 
 ---
 
